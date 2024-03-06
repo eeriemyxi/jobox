@@ -1,4 +1,4 @@
 # Jobox
 
-Project state: alpha.
+Project state: alpha. See the `dev` branch for progress.
 
