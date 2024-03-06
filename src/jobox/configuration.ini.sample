@@ -1,0 +1,5 @@
+[core]
+; google api youtube api key
+API_KEY = API_KEY_HERE
+; prefix id by a ! if it's a channel id rather than handle name
+CHANNELS = TsodingDaily, SomeOrdinaryGamers
